@@ -83,10 +83,9 @@ BrainLinkPro4MaxMSP/
 
 ---
 
-## 开发与自定义
+## 源码开发与改进
 
 - 源代码路径：`src/MAC_HZLBlue4.0Demo.xcodeproj`。
-- 支持自定义 OSC 路由地址和端口。
 - 需要重新编译应用程序时，确保已安装可以编译OC的Xcode。
 
 ---
