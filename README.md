@@ -1,15 +1,15 @@
-# BrainLinkPro4MaxMsp
+# BrainLinkPro4MaxMSP
 
-**BrainLinkPro4MaxMsp** 是一个通过蓝牙、 UDP、OSC协议共同实现 BrainLink Pro 数据与 Max/MSP 交互的工具。它支持实时接收脑波、心率等传感器的数据，并提供双向通信机制，用户可以通过 Max/MSP 发送控制指令，动态调整数据流内容。
+**BrainLinkPro4MaxMSP** 是一个通过蓝牙、 UDP、OSC协议共同实现 BrainLink Pro 数据与 Max/MSP 交互的工具。它支持实时接收脑波、心率等传感器的数据，并提供双向通信机制，用户可以通过 Max/MSP 发送控制指令，动态调整数据流内容。
 
-在本程序开发之前，BLP并不具备与Max等软件直接通信的能力，因此要把BLP采集的脑波数据用于交互，需编写专门的应用程序，这对许多对编程不熟悉的用户来说，成为了一个主要的障碍，制约了基于脑波的互动创作的广泛应用。BrainLinkPro4MaxMsp 的目标就是通过降低技术门槛，打破代码恐惧的壁垒，为脑波与艺术、交互领域的结合提供简单、高效的解决方案。
+在本程序开发之前，BLP并不具备与Max等软件直接通信的能力，因此要把BLP采集的脑波数据用于交互，需编写专门的应用程序，这对许多对编程不熟悉的用户来说，成为了一个主要的障碍，制约了基于脑波的互动创作的广泛应用。BrainLinkPro4MaxMSP 的目标就是通过降低技术门槛，打破代码恐惧的壁垒，为脑波与艺术、交互领域的结合提供简单、高效的解决方案。
 
 ---
 
 ## 项目目录
 
 ```
-BrainLinkPro4MaxMsp/
+BrainLinkPro4MaxMSP/
 ├── image/                  # 运行图片展示
 ├── MAX/                    # Max/MSP 示范文件
 │   └── BrainLinkPro4MaxMsp_1.35.maxhelp
