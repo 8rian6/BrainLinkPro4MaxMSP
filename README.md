@@ -71,7 +71,7 @@ BrainLinkPro4MaxMSP/
 ![MaxHelp](image/MaxHelp.png)
 
 3. **查看 Hint 提示**：
-   - 鼠标移到 Max/MSP 模块上即可查看数值的详细解释，包括数据的单位，来源和用途。
+   - （patch在锁定情况下）鼠标移到各模块上即可查看数值的详细解释，包括数据的单位，来源和用途。
 ### Max 模块 Hint 提示演示
 ![Hint](image/hint.gif)<br> 
 
