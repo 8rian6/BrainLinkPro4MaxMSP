@@ -10,7 +10,7 @@
 
 ```
 BrainLinkPro4MaxMsp/
-├── image/                  # 项目演示图片和 GIF
+├── image/                  # 运行图片展示
 ├── MAX/                    # Max/MSP 示范文件
 │   └── BrainLinkPro4MaxMsp_1.35.maxhelp
 ├── release/                # 编译后的应用程序
@@ -75,7 +75,7 @@ BrainLinkPro4MaxMsp/
 4. **如果需要根据自己的需求调整功能**：
    - 退出Max的Presentation Mode（演示模式），进入 Edit Mode（编辑模式），自由修改补丁结构和功能模块。
 ### Maxhelp在非演示模式下的界面
-![MaxHelp2](image/MaxHelp2.jpeg)
+![MaxHelp2](image/MaxHelp2.png)
 
 ---
 
@@ -98,7 +98,7 @@ BrainLinkPro4MaxMsp/
 | 专注度             | `/attention`         | 默认开启，无需特殊条件。                          
 | 放松度             | `/meditation`        | 默认开启，无需特殊条件。                          
 | 喜好度             | `/fvrate`            | Max 中手动开启；开启后自动停止 Raw Data、心率和 HRV 数据流。 
-| 各波段脑波         | `/delta` 等          | 见接收转发程序界面。                               
+| 各波段脑波         | `/delta` 等          | 详见接收转发程序界面。                               
 | 原始数据（Raw Data）| `/sensorDataRaw`     | Max 中手动开启；喜好度开启后自动停止。             
 | 心率               | `/heartRate`         | 喜好度开启后自动停止；关闭喜好度后自动开启。       
 | RR周期             | `/hrvMs`             | 喜好度开启后自动停止；关闭喜好度后自动开启。       
