@@ -63,15 +63,18 @@ BrainLinkPro4MaxMsp/
    - 设置 OSC 数据发送的目标端口，默认为 `11123`。
 ### 应用程序运行界面
 ![AppRun](image/AppRun.png)
+
 2. **配置 Max/MSP**：
    - 打开 `MAX/BrainLinkPro4MaxMsp_1.35.maxhelp` 文件。
    - 确保 Max 的接收端口与应用程序的发送端口一致。
 ### Maxhelp界面
 ![MaxHelp](image/MaxHelp.png)
+
 3. **查看 Hint 提示**：
    - 鼠标移到 Max/MSP 模块上即可查看数值的详细解释，包括数据的单位，来源和用途。
 ### Max 模块 Hint 提示演示
-![Hint](image/hint.gif)
+![Hint](image/hint.gif)<br> 
+
 4. **如果需要根据自己的需求调整功能**：
    - 退出Max的Presentation Mode（演示模式），进入 Edit Mode（编辑模式），自由修改补丁结构和功能模块。
 ### Maxhelp在非演示模式下的界面
