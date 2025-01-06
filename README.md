@@ -7,6 +7,8 @@
 ---
 
 ## 项目目录
+
+```
 BrainLinkPro4MaxMsp/
 ├── image/                  # 项目演示图片和 GIF
 ├── MAX/                    # Max/MSP 示范文件
@@ -17,7 +19,7 @@ BrainLinkPro4MaxMsp/
 │   ├── MAC_HZLBlue4.0Demo/
 │   └── MAC_HZLBlue4.0Demo.xcodeproj
 └── README.md               # 项目说明文档
-
+```
 ---
 
 ## 1.35版功能特点
