@@ -108,7 +108,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 8.00000011920929, 1296.499999701976776, 449.606323063373566, 35.0 ],
-					"text" : ";\rmax launchbrowser https://github.com/8rian6/BrainLinkPro4MaxMsp"
+					"text" : ";\rmax launchbrowser https://github.com/8rian6/BrainLinkPro4MaxMSP"
 				}
 
 			}
