@@ -9,7 +9,6 @@
 ## 项目目录
 BrainLinkPro4MaxMsp/
 ├── image/                  # 项目演示图片和 GIF
-│  
 ├── MAX/                    # Max/MSP 示范文件
 │   └── BrainLinkPro4MaxMsp_1.35.maxhelp
 ├── release/                # 编译后的应用程序
